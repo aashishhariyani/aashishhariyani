@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**aashishhariyani/aashishhariyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi, I'm Aashish Hariyani, an MCA student from Ahmedabad with a strong passion for mobile app development using Flutter.  
+I’m currently learning Flutter fundamentals, including UI design, state management, and API integration by building small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m eager to start my career as a Flutter developer and actively seeking an internship where I can apply my skills and grow professionally.
+
+📫 You can reach me at:  
+- Email: hariyaniaashish09@gmail.com  
+- GitHub: [github.com/aashishhariyani](https://github.com/aashishhariyani)
+
+Feel free to explore my repositories and connect with me!
